@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
+	// boot server on main
 	startup.BootServer()
 }
